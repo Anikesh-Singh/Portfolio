@@ -1,0 +1,16 @@
+.ansh{
+    margin-left: 5%;
+    margin-top: 5%;
+    width: 15%;
+    border-radius: 100%;
+}
+body{
+    background: black;
+}
+.summary{
+    color: red;
+}
+.dpandintro{
+    display: flex;
+    flex-direction: row;
+}
