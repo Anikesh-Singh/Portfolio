@@ -8,9 +8,13 @@ body{
     background: black;
 }
 .summary{
+    margin-top: 5%;
     color: red;
 }
 .dpandintro{
     display: flex;
     flex-direction: row;
+}
+.dp{
+    margin-right: -55%;
 }
