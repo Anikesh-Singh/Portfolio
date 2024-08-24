@@ -8,8 +8,10 @@ body{
     background: black;
 }
 .summary{
-    margin-top: 5%;
+    margin-top: 2%;
     color: red;
+    display: flex;
+    flex-direction: row;
 }
 .dpandintro{
     display: flex;
@@ -17,4 +19,26 @@ body{
 }
 .dp{
     margin-right: -55%;
+}
+.head{
+    color: aliceblue;
+    display: flex;
+    flex-direction:row;
+    align-items: center;
+    justify-content: center;
+    
+}
+ul{
+    display: flex;
+    flex-direction:row;
+    gap: 100px;
+    text-decoration: none;
+    list-style-type: none;
+    
+}
+header{
+    box-shadow: 0 4px 2px -2px rgb(237 237 237);
+}
+p{
+    margin-top: 100px;
 }
